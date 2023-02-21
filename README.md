@@ -15,9 +15,13 @@ found [here](bom/ibom.html).
 
 # Changelog
 
-## V1.0
-* First prototype.
+## 1.0
+* First prototype
 
-## V1.1
-* First release.
+## 1.1
+* First release
 
+## 1.2
+* Convert project to Kicad 6
+* Round pcb corners
+* Place output labeling above pin header
